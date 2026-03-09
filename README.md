@@ -39,4 +39,3 @@ ed-analytics-portfolio/
 - **Bottleneck Analysis** — care pathway timing segmented by acuity level
 - **LWBS Analysis** — left without being seen rates and wait time thresholds
 - **Boarding Analysis** — admitted patient boarding rates and duration
-```
